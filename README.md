@@ -25,7 +25,7 @@
 
 CS grad | Python & SQL | Data enthusiast turning raw data into insights. AWS & Azure certified. Exploring analytics, pipelines, and visualization projects.
 
-> 🐍 Python |📊 SQL |☁️ AWS |☁️ Azure 
+> 🐍 Python |📊 SQL |📈Power BI |☁️ AWS |☁️ Azure 
 
 ---
 
