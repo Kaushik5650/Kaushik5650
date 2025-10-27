@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Rama Kaushik
+📊Data Enthusiast | 🧠Problem Solver
 <!--
 **Kaushik5650/Kaushik5650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
