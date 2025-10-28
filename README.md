@@ -12,7 +12,7 @@
   <a href="https://github.com/Kaushik5650" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:ramakaushik2509@gmail.com">
+  <a href="mailto:ramakaushikm@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -45,7 +45,7 @@ Built with Google Gemini Pro and Streamlit to match resumes to job descriptions 
 ### 📫 Let's Connect!
 
 Have an idea, want to collaborate, or just say hi?  
-Drop me a message on [LinkedIn](https://www.linkedin.com/in/ramakaushikmurugudu/) or [email me](mailto:ramakaushik2509@gmail.com)!
+Drop me a message on [LinkedIn](https://www.linkedin.com/in/ramakaushikmurugudu/) or [Email me](mailto:ramakaushikm@gmail.com)!
 
 ---
 
