@@ -31,14 +31,10 @@ CS grad | Python & SQL | Data enthusiast turning raw data into insights. AWS & A
 
 ### 🌟 Featured Projects
 
-🚀 **[Flight Fare Prediction](https://github.com/Nayeem114477/flight-fare-prediction)**  
-Built a real-time flight fare prediction app using Python, scikit-learn, and Streamlit.
-⚙️ Feature Engineering | 🧠 ML Modeling| 📈 MLflow Tracking
+**[Sales Analysis Project](https://github.com/kaushik5650/Sales_Analysis_Project)**  
+Analyzed and visualized sales data using Python, SQL (SQLite), and Power BI.  
+📊 Data Cleaning | 📈 SQL Analysis | 📉 Python Visualizations | 📊 Power BI Dashboards
 
-
-🧠 **[Application Tracking System](https://github.com/Nayeem114477/Application_Tracking_System)**  
-Built with Google Gemini Pro and Streamlit to match resumes to job descriptions and generate smart feedback.
-📄 PDF Parsing | 🧠 Resume–JD Matching | ✍️ Summary Generation
 
 ---
 
