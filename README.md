@@ -32,9 +32,16 @@ CS grad | Python & SQL | Data enthusiast turning raw data into insights. AWS & A
 ### 🌟 Featured Projects
 
 **[Sales Analysis Project](https://github.com/kaushik5650/Sales_Analysis_Project)**  
-Analyzed and visualized sales data using Python, SQL (SQLite), and Power BI.  
+
+Analyzed and visualized sales data using Python, SQL (SQLite), and Power BI. 
+
 📊 Data Cleaning | 📈 SQL Analysis | 📉 Python Visualizations | 📊 Power BI Dashboards
 
+**[Customer Segmentation Dashboard](https://github.com/Kaushik5650/Customer_Segmentation_Project)**
+
+Performed customer segmentation and RFM analysis using Python, SQL (SQLite), and Power BI.
+
+📊 Data Cleaning | 🧠 RFM Analysis | 📈 SQL Queries | 📊 Power BI Dashboards
 
 ---
 
